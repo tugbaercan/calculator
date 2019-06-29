@@ -34,7 +34,7 @@ def account_transactions(value):
 def delete_all_values():
     global first_number
     global second_number
-    print('All Values â€‹â€‹Deleted')
+    print('All Values Deleted')
     first_number = 0
     second_number = 0
     input.delete(0, 'end')
